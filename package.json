@@ -1,6 +1,6 @@
 {
   "name": "lie-zip",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "zip all the lies up",
   "main": "lib/zip.js",
   "scripts": {
